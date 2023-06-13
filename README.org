@@ -1,0 +1,10 @@
+* random-access-lists
+
+SRFI-101 For Common Lisp: pure, random access lists.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/VincentToups/random-access-lists.git   |
+| commit  | d0b3cae  |
+| systems | random-access-lists |
+|---------+-------------------------------------------|
+
